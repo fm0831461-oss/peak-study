@@ -1,0 +1,6 @@
+@PeekStudy.API_HostAddress = http://localhost:5193
+
+GET {{PeekStudy.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
